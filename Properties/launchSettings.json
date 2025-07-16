@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "x_road_security_server_integration": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7288",
+      "launchBrowser": false
+    }
+  }
+}
